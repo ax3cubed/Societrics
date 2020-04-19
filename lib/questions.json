@@ -4,7 +4,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"hard",
-						"question":" Equity/equality ",
+						"question":" Fairness with example. E.g who deserves the bed, A pregnant woman or a crippled man. ",
 						"correct_answer":"Equity",
 						"incorrect_answers":["Equality"]
 						
@@ -13,7 +13,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":" Order/Arrangement ",
+						"question":"  Which is more appropriate ",
 						"correct_answer":"Order",
 						"incorrect_answers":["Arrangement"]
 					},
@@ -22,7 +22,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"Truth/fact",
+						"question":"Which is practical",
 						"correct_answer":"Truth",
 						"incorrect_answers":["Fact"]
 					},
@@ -31,7 +31,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"Intelligence/brilliance",
+						"question":"Similar or better?",
 						"correct_answer":"Intelligence",
 						"incorrect_answers":["Brilliance"]
 					},
@@ -39,7 +39,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":" Understanding/knowledge ",
+						"question":" Which is more expensive? ",
 						"correct_answer":"Understanding",
 						"incorrect_answers":["Knowledge"]
 					},
@@ -47,7 +47,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":" Wealth/money ",
+						"question":" Similar or better? ",
 						"correct_answer":"Wealth",
 						"incorrect_answers":["Money"]
 					},
@@ -55,7 +55,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"Love/fear",
+						"question":"Strongest Emotional trigger",
 						"correct_answer":"Love",
 						"incorrect_answers":["Fear"]
 					},
@@ -64,7 +64,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":" Home/house/family ",
+						"question":"  Describe where you grew ",
 						"correct_answer":"Family",
 						"incorrect_answers":["Home","House"]
 					},
@@ -73,7 +73,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"Trust/believe/confidence  ",
+						"question":"Range between 1-10",
 						"correct_answer":"Trust",
 						"incorrect_answers":["Believe","Confidence"]
 					},
@@ -82,7 +82,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":" Peace/Rest/Quiet ",
+						"question":" Which is easier to achieve?  ",
 						"correct_answer":"Peace",
 						"incorrect_answers":["Rest","Quiet"]
 					},
@@ -91,7 +91,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"Intimate/close/familiar",
+						"question":"Foe or Friend",
 						"correct_answer":"Intimate",
 						"incorrect_answers":["Close","Familiar"]
 					},	
@@ -100,7 +100,7 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"Far/Distant",
+						"question":"Hope for prospects",
 						"correct_answer":"Distant",
 						"incorrect_answers":["Far"]
 					},
@@ -108,7 +108,15 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"Half full/half empty ",
+						"question":"Sincere to a fault",
+						"correct_answer":"Difficult",
+						"incorrect_answers":["Hard"]
+				},		
+		{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Judge of character. (optimist or pessimist)",
 						"correct_answer":"Half Full",
 						"incorrect_answers":["Half empty"]
 					},		
@@ -117,51 +125,18 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"Punishment/Correction/Chastisement ",
+						"question":" Stress pattern/pain ",
 						"correct_answer":"Chastisement",
 						"incorrect_answers":["Punishment", "Correction"]
 				},		
 		
 
-		{
-						"category":"Nurture",
-						"type":"multiple",
-						"difficulty":"medium",
-						"question":"Hard/Difficult",
-						"correct_answer":"Difficult",
-						"incorrect_answers":["Hard"]
-				},		
+		
 
 
 		
 				]
 }
-1. Fairness with example. E.g who deserves the bed, A pregnant woman or a crippled man.
 
-2. Which is more appropriate
 
-3. Which is practical
-
-4. Similar or better?
-
-5. Which is more expensive?
-
-6. Similar or better?
-
-7. Strongest Emotional trigger
-
-8. Describe where you grew
-
-9. Range between 1-10
-
-10. Which is easier to achieve? 
-
-11. Foe or friend
-
-12. Hope for prospects
-
-13. Sincere to a fault
-
-14. Judge of character. (optimist or pessimist)
-
-15. Stress pattern/pain
+ 
