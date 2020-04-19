@@ -26,9 +26,17 @@ class Start extends StatelessWidget {
                 onTap: () {
                   Navigator.pushReplacementNamed(context, 'quiz');
                 },
+                 
                 child: CustomButton(text: 'Start Quiz!'),
+               
               ),
             ),
+            Text(
+                    'Note that by clicling the Start Quiz Button You have accepted that you are above the age of 8 years and agree to all terms and conditions',
+                    style: TextStyle(
+                      fontSize: 15.0,
+                    ),
+                  ),
           ],
         ),
       ),

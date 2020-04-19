@@ -1,8 +1,11 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:html_unescape/html_unescape.dart';
 import 'package:quiz_app/components/quiz_option.dart';
+import 'package:quiz_app/screens/question.dart';
+ 
 
 class Quiz extends StatefulWidget {
   @override
@@ -30,10 +33,16 @@ class _QuizState extends State<Quiz> {
     super.initState();
   }
 
-  void getQuestions() async {
-    final response =
-        await http.get('https://opentdb.com/api.php?amount=10&category=18');
-    Map data = json.decode(response.body);
+Future<String> _loadStudentAsset() async {
+
+  return await rootBundle.loadString('assets/questions.json');
+}
+
+  getQuestions() async{
+await wait(5);
+String jsonString = await _loadStudentAsset();
+ 
+Map data = json.decode(jsonString);
     List answers = [data['results'][0]['correct_answer']] +
         data['results'][0]['incorrect_answers'];
     setState(() {
@@ -42,7 +51,14 @@ class _QuizState extends State<Quiz> {
       this.currentCorrectAnswer = data['results'][0]['correct_answer'];
       this.currentAnswers = answers..shuffle();
     });
-  }
+ 
+  
+}
+
+Future wait(int seconds){
+  return new Future.delayed(Duration(seconds: seconds), () =>{});
+}
+   
 
   void verifyAndNext(BuildContext context) {
     String textSelectAnswer = this.currentAnswers[this.selectedAnswer];
