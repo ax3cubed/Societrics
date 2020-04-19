@@ -1,6 +1,6 @@
-<h1 align="center">Quiz App</h1>
+<h1 align="center">Sociometrics App</h1>
 
-Practice and test your knowledge by answering questions in a quiz application made with [Flutter](https://flutter.dev/docs/get-started/install).
+Mental psycho evaluation test by answering questions in a quiz application made with [Flutter](https://flutter.dev/docs/get-started/install).
 
 ## Prints
 <p align="center">
@@ -15,7 +15,7 @@ Practice and test your knowledge by answering questions in a quiz application ma
 
 ## User Stories
 -   [X] User can start the quiz by pressing a `button`
--   [X] User can see a question with 4 possible answers
+-   [X] User can see a question with possible answers
 -   [X] After selecting an answer, display the next question to the User. Do this until the quiz is finished
 -   [X] At the end, the User can see the following statistics
     -   Time it took to finish the quiz
@@ -23,7 +23,7 @@ Practice and test your knowledge by answering questions in a quiz application ma
     -   A message showing if he `passed` or `failed` the quiz
 
 ## Useful links and resources
-- [Open Trivia Database](https://opentdb.com/api_config.php)
+- [The test questions ](https://opentdb.com/api_config.php)
 - [Fetch data from the internet](https://flutter.dev/docs/cookbook/networking/fetch-data)
 
 ## How to use
