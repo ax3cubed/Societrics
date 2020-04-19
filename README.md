@@ -43,9 +43,6 @@ $ flutter packages get
 $ flutter run
 ```
 
-## Credits 
-- [Project specifications](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Quiz-App.md)
-
 ## Contact
-  - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
-  - <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">E-mail</a>
+  - <a target="_blank" href="https://www.linkedin.com/in/akinwole-abraham-335812194">LinkedIn</a>
+  - <a target="_blank" href="mailto:ajunior488@gmail.com">E-mail</a>
