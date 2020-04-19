@@ -2,7 +2,7 @@
 
 Mental psycho evaluation test by answering questions in a quiz application made with [Flutter](https://flutter.dev/docs/get-started/install).
 
-## Prints
+## Sample Prints
 <p align="center">
   <img width="250" src="https://i.pinimg.com/originals/f4/f0/a6/f4f0a6f808c94a9b553edb6db6e97a5f.png"/>
   <img width="250" src="https://i.pinimg.com/originals/f7/23/e4/f723e40b0afd98b8da577be204f954ad.png"/>
@@ -23,7 +23,7 @@ Mental psycho evaluation test by answering questions in a quiz application made 
     -   A message showing if he `passed` or `failed` the quiz
 
 ## Useful links and resources
-- [The test questions ](https://opentdb.com/api_config.php)
+- [The test questions (https://github.com/ax3cubed/Sociometrics/blob/master/lib/questions.json)
 - [Fetch data from the internet](https://flutter.dev/docs/cookbook/networking/fetch-data)
 
 ## How to use
@@ -31,10 +31,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/feMoraes0/quiz-app.git
+$ git clone https://github.com/ax3cubed/Sociometrics.git
 
 # Go into the repository
-$ cd quiz-app
+$ cd Sociometrics 
 
 # Install dependencies
 $ flutter packages get
