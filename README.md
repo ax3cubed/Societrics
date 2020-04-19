@@ -1,4 +1,4 @@
-<h1 align="center">Sociometrics App</h1>
+<h1 align="center">Socioetrics App</h1>
 
 Mental psycho evaluation test by answering questions in a quiz application made with [Flutter](https://flutter.dev/docs/get-started/install).
 
@@ -23,7 +23,7 @@ Mental psycho evaluation test by answering questions in a quiz application made 
     -   A message showing if he `passed` or `failed` the quiz
 
 ## Useful links and resources
-- [The test questions (https://github.com/ax3cubed/Sociometrics/blob/master/lib/questions.json)
+- [The test questions (https://github.com/ax3cubed/Socioetrics/blob/master/lib/questions.json)
 - [Fetch data from the internet](https://flutter.dev/docs/cookbook/networking/fetch-data)
 
 ## How to use
