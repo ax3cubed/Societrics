@@ -4,19 +4,135 @@
 						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"hard",
-						"question":"",
-						"correct_answer":"Shellshock",
-						"incorrect_answers":["Heartbleed","Bashbug","Stagefright"]
+						"question":" Equity/equality ",
+						"correct_answer":"Equity",
+						"incorrect_answers":["Equality"]
+						]
 					},
 					{
-						"category":"Science: Computers",
+						"category":"Nurture",
 						"type":"multiple",
 						"difficulty":"medium",
-						"question":"When was the programming language &quot;C#&quot; released?",
-						"correct_answer":"2000",
-						"incorrect_answers":["1998","1999","2001"]
+						"question":" Order/Arrangement ",
+						"correct_answer":"Order",
+						"incorrect_answers":["Arrangement"]
 					},
-					
+		
+						{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Truth/fact",
+						"correct_answer":"Truth",
+						"incorrect_answers":["Fact"]
+					},
+		
+						{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Intelligence/brilliance",
+						"correct_answer":"Intelligence",
+						"incorrect_answers":["Brilliance"]
+					},
+	                                 {
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":" Understanding/knowledge ",
+						"correct_answer":"Understanding",
+						"incorrect_answers":["Knowledge"]
+					},
+		                        {
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":" Wealth/money ",
+						"correct_answer":"Wealth",
+						"incorrect_answers":["Money"]
+					},
+		{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Love/fear",
+						"correct_answer":"Love",
+						"incorrect_answers":["Fear"]
+					},
+		
+		                        {
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":" Home/house/family ",
+						"correct_answer":"Family",
+						"incorrect_answers":["Home","House"]
+					},
+		
+		                        {
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Trust/believe/confidence  ",
+						"correct_answer":"Trust",
+						"incorrect_answers":["Believe","Confidence"]
+					},
+		
+		                        {
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":" Peace/Rest/Quiet ",
+						"correct_answer":"Peace",
+						"incorrect_answers":["Rest","Quiet"]
+					},
+		
+			{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Intimate/close/familiar",
+						"correct_answer":"Intimate",
+						"incorrect_answers":["Close","Familiar"]
+					},	
+		
+			{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Far/Distant",
+						"correct_answer":"Distant",
+						"incorrect_answers":["Far"]
+					},
+		{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Half full/half empty ",
+						"correct_answer":"Half Full",
+						"incorrect_answers":["Half empty"]
+					},		
 
+		{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Punishment/Correction/Chastisement ",
+						"correct_answer":"Chastisement",
+						"incorrect_answers":["Punishment", "Correction"]
+				},		
+		
+
+		{
+						"category":"Nurture",
+						"type":"multiple",
+						"difficulty":"medium",
+						"question":"Hard/Difficult",
+						"correct_answer":"Difficult",
+						"incorrect_answers":["Hard"]
+				},		
+
+
+		
 				]
 }
