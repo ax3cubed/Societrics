@@ -1,4 +1,4 @@
-<h1 align="center">Socioetrics App</h1>
+<h1 align="center">Societrics App</h1>
 
 Mental psycho evaluation test by answering questions in a quiz application made with [Flutter](https://flutter.dev/docs/get-started/install).
 
